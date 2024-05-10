@@ -6,7 +6,7 @@ import Button from "./components/Button";
 import Input from "./components/Input";
 
 const supabase = createClient("https://wakumygnbmiblksxppyn.supabase.co", "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Indha3VteWduYm1pYmxrc3hwcHluIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTUxNjczOTUsImV4cCI6MjAzMDc0MzM5NX0.TCUf_otfYR_xieNmxRL4aOFY9nLVLJBiicUjxGdnLS4");
-// https://www.youtube.com/watch?v=1iRrc6BFRE0&ab_channel=RavenJS
+// https://www.youtube.com/watch?v=1iRrc6BFRE0&ab_channel=RavenJSg
 function App() {
   const [countries, setCountries] = useState([]);
 
